@@ -3,9 +3,28 @@
 
 # 메일에서 보이는 서명
 
-https://user-images.githubusercontent.com/13645032/146726357-7a7a2b71-558d-4b39-a55d-56f207dde45f.mov
-
-![874FEDCB-2A91-441A-9DDC-21C05E17B134_1_102_o](https://user-images.githubusercontent.com/13645032/146726486-438f7c1d-f632-4310-884b-b9f98fa258e0.jpeg)
+<table>
+  <thead>
+    <tr>
+      <th>
+        네이버 데스크탑
+      </th>
+      <th>
+        애플 모바일
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <img height="360" alt="image" src="https://user-images.githubusercontent.com/13645032/146727338-b4f9ba64-4bb3-4cec-b8a4-97060a982169.gif">
+      </td>
+      <td align="center">
+        <img height="360" alt="image" src="https://user-images.githubusercontent.com/13645032/146727050-61b7aeeb-ea77-4222-bc67-03afc5bc9d14.gif">
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 # 메일 보낼때 서명 선택하기
 
