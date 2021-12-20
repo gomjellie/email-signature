@@ -54,5 +54,5 @@
 
 개발자 도구로 html 코드를 삽입하면 아래처럼 잘 뜬다.
 
-<img width="500" alt="image" src="https://user-images.githubusercontent.com/13645032/146739401-bba2f45a-57d2-46c3-ad12-35f05df8a762.png">
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/13645032/146740878-77ad9bc3-b9ac-4915-b29e-71b1f939a25b.png">
 
