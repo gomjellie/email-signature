@@ -26,6 +26,16 @@
   </tbody>
 </table>
 
-# 메일 보낼때 서명 선택하기
+# 메일 서명 관리
 
-미완
+## 네이버 메일 서명 설정
+
+메일 > 환경설정 > 서명/빠른답장 > 서명추가
+
+<img height="360" alt="image" src="https://user-images.githubusercontent.com/13645032/146736223-5d1d7328-9f43-40ee-b55f-f3ba0ce56542.png">
+
+[서명코드](/naver-signature.html)의 footer 내용을 복사해서 넣어주세요
+
+## 구글 지메일 서명 설정
+
+
